@@ -2,7 +2,7 @@
 <VaultCatalog>
   <Asset>
     <AssetId>e253cddfa376</AssetId>
-    <DisplayTitle>Shogun Ver</DisplayTitle>
+    <DisplayTitle>Shogun Music</DisplayTitle>
     <OriginalFileName>shogun_ver.flac</OriginalFileName>
     <NutFile>e253cddfa376.nut</NutFile>
     <CredFile>e253cddfa376.cred</CredFile>
@@ -17,5 +17,14 @@
     <CredFile>5b2974632b32.cred</CredFile>
     <HMode>0x01</HMode>
     <Timestamp>2026-10-05T19:48:46.3748596Z</Timestamp>
+  </Asset>
+    <Asset>
+    <AssetId>a3e7d0937cae</AssetId>
+    <DisplayTitle>SF4 Anniversary</DisplayTitle>
+    <OriginalFileName>SF4_Anniversary.mp4</OriginalFileName>
+    <NutFile>a3e7d0937cae.nut</NutFile>
+    <CredFile>a3e7d0937cae.cred</CredFile>
+    <HMode>0x01</HMode>
+    <Timestamp>2026-10-05T23:19:21.6662788Z</Timestamp>
   </Asset>
 </VaultCatalog>
