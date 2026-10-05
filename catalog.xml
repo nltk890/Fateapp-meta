@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<VaultCatalog>
+  <Asset>
+    <AssetId>6a7540fdcce9</AssetId>
+    <DisplayTitle>Article</DisplayTitle>
+    <OriginalFileName>a.md</OriginalFileName>
+    <NutFile>6a7540fdcce9.nut</NutFile>
+    <CredFile>6a7540fdcce9.cred</CredFile>
+    <HMode>0x03</HMode>
+    <Timestamp>2026-10-05T17:28:11.2587081Z</Timestamp>
+  </Asset>
+  <Asset>
+    <AssetId>2774df418ec8</AssetId>
+    <DisplayTitle>Shogun Theme Cenamatic Version</DisplayTitle>
+    <OriginalFileName>shogun_ver.flac</OriginalFileName>
+    <NutFile>2774df418ec8.nut</NutFile>
+    <CredFile>2774df418ec8.cred</CredFile>
+    <HMode>0x01</HMode>
+    <Timestamp>2026-10-05T17:28:11.2913684Z</Timestamp>
+  </Asset>
+</VaultCatalog>
