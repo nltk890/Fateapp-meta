@@ -30,4 +30,14 @@
     <Type>VID</Type>
     <Timestamp>2026-10-05T23:19:21.6662788Z</Timestamp>
   </Asset>
+  <Asset>
+    <AssetId>c8cc5aa0097a</AssetId>
+    <DisplayTitle>Welcome2</DisplayTitle>
+    <OriginalFileName>welcome.rtf</OriginalFileName>
+    <NutFile>c8cc5aa0097a.nut</NutFile>
+    <CredFile>c8cc5aa0097a.cred</CredFile>
+    <HMode>0x01</HMode>
+    <Type>MD</Type>
+    <Timestamp>2026-10-06T17:31:16.3261515Z</Timestamp>
+  </Asset>
 </VaultCatalog>
