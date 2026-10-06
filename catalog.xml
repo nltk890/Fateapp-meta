@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <VaultCatalog>
   <Asset>
+    <AssetId>de470ba00097</AssetId>
+    <DisplayTitle>Welcome</DisplayTitle>
+    <OriginalFileName>welcome.md</OriginalFileName>
+    <NutFile>de470ba00097.nut</NutFile>
+    <CredFile>de470ba00097.cred</CredFile>
+    <HMode>0x02</HMode>
+    <Type>MD</Type>
+    <Timestamp>2026-10-06T16:24:01.0368472Z</Timestamp>
+  </Asset>
+  <Asset>
     <AssetId>e253cddfa376</AssetId>
     <DisplayTitle>Shogun Music</DisplayTitle>
     <OriginalFileName>shogun_ver.flac</OriginalFileName>
@@ -9,17 +19,7 @@
     <HMode>0x01</HMode>
     <Type>MP3</Type>
     <Timestamp>2026-10-05T19:48:46.3725021Z</Timestamp>
-  </Asset>
-  <Asset>
-    <AssetId>5b2974632b32</AssetId>
-    <DisplayTitle>Welcome</DisplayTitle>
-    <OriginalFileName>welcome.md</OriginalFileName>
-    <NutFile>5b2974632b32.nut</NutFile>
-    <CredFile>5b2974632b32.cred</CredFile>
-    <HMode>0x01</HMode>
-    <Type>MD</Type>
-    <Timestamp>2026-10-05T19:48:46.3748596Z</Timestamp>
-  </Asset>
+  </Asset>  
     <Asset>
     <AssetId>a3e7d0937cae</AssetId>
     <DisplayTitle>SF4 Anniversary</DisplayTitle>
