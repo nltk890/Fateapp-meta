@@ -7,6 +7,7 @@
     <NutFile>e253cddfa376.nut</NutFile>
     <CredFile>e253cddfa376.cred</CredFile>
     <HMode>0x01</HMode>
+    <Type>MP3</Type>
     <Timestamp>2026-10-05T19:48:46.3725021Z</Timestamp>
   </Asset>
   <Asset>
@@ -16,6 +17,7 @@
     <NutFile>5b2974632b32.nut</NutFile>
     <CredFile>5b2974632b32.cred</CredFile>
     <HMode>0x01</HMode>
+    <Type>MD</Type>
     <Timestamp>2026-10-05T19:48:46.3748596Z</Timestamp>
   </Asset>
     <Asset>
@@ -25,6 +27,7 @@
     <NutFile>a3e7d0937cae.nut</NutFile>
     <CredFile>a3e7d0937cae.cred</CredFile>
     <HMode>0x01</HMode>
+    <Type>VID</Type>
     <Timestamp>2026-10-05T23:19:21.6662788Z</Timestamp>
   </Asset>
 </VaultCatalog>
