@@ -30,5 +30,15 @@
     <HMode>0x01</HMode>
     <Type>VID</Type>
     <Timestamp>2026-10-05T23:19:21.6662788Z</Timestamp>
-  </Asset>  
+  </Asset>
+  <Asset>
+    <AssetId>4f2113dc68dc</AssetId>
+    <DisplayTitle>Shogun Tracks</DisplayTitle>
+    <OriginalFileName>shogun_tracks.mp4</OriginalFileName>
+    <NutFile>4f2113dc68dc.nut</NutFile>
+    <CredFile>4f2113dc68dc.cred</CredFile>
+    <HMode>0x02</HMode>
+    <Type>VID</Type>
+    <Timestamp>2026-10-06T19:07:55.3677907Z</Timestamp>
+  </Asset>
 </VaultCatalog>
